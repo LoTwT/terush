@@ -1,0 +1,5 @@
+# terush
+
+## License
+
+[MIT](./LICENSE)
